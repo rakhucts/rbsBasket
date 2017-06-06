@@ -17,4 +17,4 @@ Checkout will calculate the total price of the shopping by the customer.
 
 
 Testing
-JUnit test case is created for testing the calculation logic
+JUnit test case is created for testing the calculation logic and shop loading methods.
